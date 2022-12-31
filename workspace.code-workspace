@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "code",
+			"path": "../.."
+		},
+		{
+			"path": "../../../../Downloads/Portfolio 6"
+		},
+		{
+			"path": "../../../../Downloads/Portfolio 7"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "code"
+	}
+}
